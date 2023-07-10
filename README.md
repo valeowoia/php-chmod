@@ -1,4 +1,5 @@
 # PHP chmod
+[![wakatime](https://wakatime.com/badge/github/valeowoia/php-chmod.svg)]
 
 Simple PHP chmod generator with dark-style frontend
 
