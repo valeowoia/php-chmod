@@ -3,14 +3,18 @@
 <head>
     <title>chmod</title>
     <style>
-            @font-face {
+        @font-face {
             font-family: 'IBM VGA8';
             src: url('imb.woff') format('woff');
         }
+
+        * {
+            font-family: 'IBM VGA8', Arial, sans-serif;
+        }
+        
         body {
             background-color: #303030;
             color: #fff;
-            font-family: 'IBM VGA8', Arial, sans-serif;
         }
 
         .container {
@@ -112,7 +116,7 @@
                 </label>
 
                 <br>
-                <input type="submit" value="Sumbit">
+                <input type="submit" value="Submit">
             </form>
 
             <?php
